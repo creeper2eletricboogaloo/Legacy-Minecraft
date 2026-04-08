@@ -219,6 +219,7 @@
     "CartographyTableMenuMixin",
     "CraftingTableBlockMixin",
     "CriteriaTriggersMixin",
+    "DragonEggBlockMixin",
     "EmptyMapItemMixin",
     "EntityTypeMixin",
     "FallingBlockEntityMixin",
